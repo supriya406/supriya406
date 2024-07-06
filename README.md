@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DSA with cpp 
 - 📫 How to reach me .
 - My email id is supriyaathakur123@gmail.com
+- linkedin - https://www.linkedin.com/in/supriya-thakur-b979b125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - ⚡ Fun fact:I love singing and watching horror movies and listening to horror podcasts, sometimes listening to murder mysteries are fun as well.
 
 <!---
